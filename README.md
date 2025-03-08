@@ -1,3 +1,5 @@
+"My god, this are the most deprecated bits of information about myself" - Lucas Miranda 2025 looking at his 2022 git page
+
 - 👋 Hi, I’m Lucas Miranda Aldea, a 23 yrs old handsome guy
 - 👀 I’m interested in developing with Java, Python, PHP, C++ and HTML, but as I'm just starting to be a professional, I'm very flexible with new languages
 - 🌱 I’m currently with the last strokes of my universitary studies in Software Engineering
